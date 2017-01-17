@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"directory",
+				"directoryService"
+			],
+			[
+				"photo",
+				"photo_url"
+			],
+			[
+				"direc",
+				"directoryService"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/E/XAMPP/htdocs/x/newbootsrap.html",
+		"/E/XAMPP/htdocs/x/index.php",
+		"/D/XAMPP/htdocs/bit_bucket/wp-content/themes/videopress/functions.php",
+		"/D/XAMPP/htdocs/techsg/resources/views/frontend/directory/create_product.blade.php",
+		"/D/XAMPP/htdocs/techsg/resources/views/frontend/directory/create_program.blade.php",
+		"/D/XAMPP/htdocs/techsg/resources/views/partials/_ecosystem_group_form.blade.php",
+		"/D/XAMPP/htdocs/techsg/app/Http/Controllers/Auth/AuthController.php",
+		"/D/XAMPP/htdocs/techsg/storage/framework/sessions/2627860875a0ffe2c967bd1bbf82725e161a0d59",
+		"/D/XAMPP/htdocs/techsg/config/app.php",
+		"/D/XAMPP/htdocs/techsg/config/view.php",
+		"/D/XAMPP/htdocs/techsg/app/ParticipantProgram.php",
+		"/D/XAMPP/htdocs/techsg/app/Http/routes.php",
+		"/D/XAMPP/htdocs/bit_bucket/wp-content/themes/videopress/includes/user/profile.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"container",
+			"head",
+			"request",
+			"insert",
+			"create",
+			"name_entity",
+			"formProfile",
+			"owner",
+			"program",
+			"create"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lara.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 174.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
